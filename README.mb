@@ -1,0 +1,4 @@
+MLFLOW_TRACKING_URI=https://dagshub.com/manchala.tapasswin955/MLFlow_Ex.mlflow \
+MLFLOW_TRACKING_USERNAME=manchala.tapasswin955 \
+MLFLOW_TRACKING_PASSWORD=ea3b0570018f432c27bcdb52df373232e5abc1bf \
+python script.py
